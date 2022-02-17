@@ -1,9 +1,9 @@
 ### Olá, seja bem-vindo ao meu github
 
 <div align="center">
-  <a href="https://github.com/Ryan-NLopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-NLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-NLopes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/ryannlopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryannlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannlopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,5 @@
   <a href="https://www.instagram.com/ryan_nlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-nicolau-lopes-8b3030167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/guilhermegomees/guilhermegomees/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>

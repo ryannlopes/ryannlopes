@@ -18,7 +18,8 @@
  
 <div>
   <a href="https://www.instagram.com/ryan_nlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryan-nicolau-lopes-8b3030167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ryan-nicolau-lopes-8b3030167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.salesforce.com/trailblazer/rnicolaulopes" target="_blank"><img src="https://img.shields.io/badge/-TrailHead-%230077B5?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a> 
  
 
 </div>
